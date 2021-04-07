@@ -1,31 +1,21 @@
-<!--
-**aditya-shirwatkar/aditya-shirwatkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<img align="left" src="https://github.com/aditya-shirwatkar/aditya-shirwatkar/blob/master/me.gif"> 
 
 ### Hi there 👋
 
-I'm a junior undergraduate student in the Department of Mechanical Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur](http://vnit.ac.in/), who is an aspiring robotics researcher and wishes to make the world a better place through the advancements in robotics and AI :innocent:
+I'm a junior undergraduate student in the Department of COmputer Sciend and Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur](http://vnit.ac.in/), who is an aspiring developer and wishes to do his part in making world a better place.
 
 <br>
 
 **More About Me**:
 
-- :rocket: My current research interests lie in developing optimal control algorithms for highly dynamic and agile locomotions of legged robots in challenging environments.
-- 🔭 I’m currently working on developing a full stack reconfigurable robotic system along with controllers for robust navigation of quadrupeds.
-- 🌱 I’m also looking forward to researching various ways to integrate **Optimal Controls** with new advancements in **Reinforcement Learning**
-- 💬 I am happy to share my experiences in robotics and would like to hear about yours too
-- ⚡ Check out some of the projects of our growing community that I'm part of at - [**IvLabs**](https://www.ivlabs.in/) 
-<!-- - 📫 You can contact me on my email - avant.redditor@gmail.com -->
-<!-- - 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... -->
+- :rocket: My current interests lie in android and block chain development.
+- 🔭 I’m currently working on developing an android app to showcase opencv's best.
+- 💬 I am happy to share my experiences in engineering and would like to hear about yours too
 
 **Contact Me**:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/aditya-shirwatkar-40a956188)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.s@students.vnit.ac.in)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/A_Shirwatkar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/abhk943)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhk943@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhk943)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -36,4 +26,5 @@ I'm a junior undergraduate student in the Department of Mechanical Engineering a
  
  <br />
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhk943&show_icons=true)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhk943&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  

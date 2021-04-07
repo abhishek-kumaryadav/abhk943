@@ -1,26 +1,31 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!--
+**aditya-shirwatkar/aditya-shirwatkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+<img align="left" src="https://github.com/aditya-shirwatkar/aditya-shirwatkar/blob/master/me.gif"> 
 
-<a href="https://www.linkedin.com/in/abhk943/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/abhk943">
-  <img align="left" alt="Abhishek | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+### Hi there 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhk943)
+I'm a junior undergraduate student in the Department of Mechanical Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur](http://vnit.ac.in/), who is an aspiring robotics researcher and wishes to make the world a better place through the advancements in robotics and AI :innocent:
 
-My name is Abhishek and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies 
+<br>
 
-### 🛠 &nbsp;Tech Stack
+**More About Me**:
 
+- :rocket: My current research interests lie in developing optimal control algorithms for highly dynamic and agile locomotions of legged robots in challenging environments.
+- 🔭 I’m currently working on developing a full stack reconfigurable robotic system along with controllers for robust navigation of quadrupeds.
+- 🌱 I’m also looking forward to researching various ways to integrate **Optimal Controls** with new advancements in **Reinforcement Learning**
+- 💬 I am happy to share my experiences in robotics and would like to hear about yours too
+- ⚡ Check out some of the projects of our growing community that I'm part of at - [**IvLabs**](https://www.ivlabs.in/) 
+<!-- - 📫 You can contact me on my email - avant.redditor@gmail.com -->
+<!-- - 👯 I’m looking to collaborate on ... 
+- 🤔 I’m looking for help with ... 
+- 💬 Ask me about ... -->
 
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-<br />
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-<br />
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<br />
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+**Contact Me**:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/aditya-shirwatkar-40a956188)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.s@students.vnit.ac.in)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/A_Shirwatkar)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -30,5 +35,5 @@ My name is Abhishek and I"m a Software Engineer who is passionate about building
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhk943&theme=radical" alt="abhk943" /></p>
  
  <br />
- 
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhk943&show_icons=true)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhk943&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  

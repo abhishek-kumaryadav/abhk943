@@ -28,7 +28,6 @@ I'm a junior undergraduate student in the Department of COmputer Sciend and Engi
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=abhk943&show_icons=true&locale=en&layout=compact&theme=radical)
 ![Abhishek's github stats](https://github-readme-streak-stats.herokuapp.com/?user=abhk943&theme=radical)
 -->
+
+
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhk943&show_icons=true)
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhk943&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  

@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I'm a junior undergraduate student in the Department of COmputer Sciend and Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur](http://vnit.ac.in/), who is an aspiring developer and wishes to do his part in making world a better place.
+I'm a junior undergraduate student in the Department of Computer Sciend and Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur](http://vnit.ac.in/), who is an aspiring developer and wishes to do his part in making world a better place.
 
 <br>
 
